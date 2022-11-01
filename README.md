@@ -1,5 +1,6 @@
 # Efe Erturk 21902620
-### Team: Travela
+### Travela
+### Project ID: T2307
 ### Supervisor: Cevdet Aykanat
 
 ## CS491 LogBook
