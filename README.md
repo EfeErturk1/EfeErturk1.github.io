@@ -19,4 +19,14 @@ We got together and did the work allocation. I took responsibility of writing
   
 I will be doing The part 3.5.4 with Efe Şaman and Çağla Ataoğlu
 
+### 22.11.2022:
+As the backend team with Efe and Çağla, we got together and did work allocation. I will be doing the travel side entity, repository, service and controls
 
+### 26.11.2022:
+I started the initial skeleton code of the backend artifact.
+
+### 28.11.2022:
+I completed the setup of the project, and added some spring security features. I connected the backend to a local database.
+
+### 29.10.2022:
+We did a meeting with our instructors Erhan and Tağmaç hoca, learned their expectations from us in the demo and in the project going forwards.
