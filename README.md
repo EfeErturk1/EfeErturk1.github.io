@@ -30,3 +30,9 @@ I completed the setup of the project, and added some spring security features. I
 
 ### 29.11.2022:
 We did a meeting with our instructors Erhan and Tağmaç hoca, learned their expectations from us in the demo and in the project going forwards.
+
+### 1.12.2022
+I started the Accomodation service for the backend artifact, and finished it, pushed it to the master.
+
+### 10.12.2022
+I started to work on the recommendation system with Machine Learning.
