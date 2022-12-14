@@ -35,4 +35,23 @@ We did a meeting with our instructors Erhan and Tağmaç hoca, learned their exp
 I started the Accomodation service for the backend artifact, and finished it, pushed it to the master.
 
 ### 10.12.2022
-I started to work on the recommendation system with Machine Learning.
+I started to work on the recommendation system with Machine Learning. Finding data for a travel recommendation system is not easy, because of the KVKK and GDPR regulations. Instead of training our own model, I decided to use an external API of Amedeus's that does the job essentially. The API call is as follows
+
+https://test.api.amadeus.com/v1/reference-data/recommended-locations?cityCodes=ROM&travelerCountryCode=US 
+
+here, ROM is the city code, and US is the country code of the user. All the cities are available in the API, but only 9 nationalities are available that gives specialized recommendation to that nations culture. We decided to use the geographically closest country to the nations that the API does not have direct integration for.
+
+"The current version of the API provides recommendations for travelers based in nine markets: France, United Kingdom, Germany, Italy, Spain, Netherlands, USA, Argentina and Mexico. 
+
+However, the input city and outputs are global and not restricted to these markets. "
+
+Usefull Links for the Amedeus External API integration:
+
+https://developers.amadeus.com/blog/travel-recommendation-system-similar-destinations
+
+https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262
+
+https://developers.amadeus.com/get-started/get-started-with-self-service-apis-335
+
+### 14.12.2022
+I started the Event service for the backend artifact, and finished it, pushed it to the master.
