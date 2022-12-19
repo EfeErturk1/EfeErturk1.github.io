@@ -61,3 +61,6 @@ I started the Location service for the backend artifact, and finished it, pushed
 
 ### 19.12.2022
 I started the Trip service for the backend artifact, and finished it, pushed it to the master. Fixed some bugs related with city, country, transportation and location.
+
+We got together today and finished the slides for the presentation and prepared for the demo.
+
