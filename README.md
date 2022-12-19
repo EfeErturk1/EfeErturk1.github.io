@@ -55,3 +55,9 @@ https://developers.amadeus.com/get-started/get-started-with-self-service-apis-33
 
 ### 14.12.2022
 I started the Event service for the backend artifact, and finished it, pushed it to the master.
+
+### 18.12.2022
+I started the Location service for the backend artifact, and finished it, pushed it to the master.
+
+### 19.12.2022
+I started the Trip service for the backend artifact, and finished it, pushed it to the master. Fixed some bugs related with city, country, transportation and location.
